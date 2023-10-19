@@ -1,0 +1,42 @@
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.exe
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.deps.json
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.runtimeconfig.json
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.dll
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.pdb
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\Users\wangm\Desktop\code\gRPC.MyClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.csproj.AssemblyReference.cache
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.AssemblyInfoInputs.cache
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.AssemblyInfo.cs
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.csproj.CoreCompileInputs.cache
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.csproj.CopyComplete
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.dll
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\refint\gRPC.MyClient.dll
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.pdb
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.genruntimeconfig.cache
+D:\Users\wangm\Desktop\code\gRPC.MyClient\obj\Debug\net6.0\ref\gRPC.MyClient.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.exe
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.deps.json
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.runtimeconfig.json
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\gRPC.MyClient.pdb
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.csproj.AssemblyReference.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.AssemblyInfoInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.AssemblyInfo.cs
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.csproj.CoreCompileInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.csproj.CopyComplete
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\refint\gRPC.MyClient.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.pdb
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\gRPC.MyClient.genruntimeconfig.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.MyClient\obj\Debug\net6.0\ref\gRPC.MyClient.dll

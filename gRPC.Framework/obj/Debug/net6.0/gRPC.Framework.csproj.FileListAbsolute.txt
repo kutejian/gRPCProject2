@@ -1,0 +1,24 @@
+D:\Users\wangm\Desktop\code\gRPC.Framework\bin\Debug\net6.0\gRPC.Framework.deps.json
+D:\Users\wangm\Desktop\code\gRPC.Framework\bin\Debug\net6.0\gRPC.Framework.dll
+D:\Users\wangm\Desktop\code\gRPC.Framework\bin\Debug\net6.0\gRPC.Framework.pdb
+D:\Users\wangm\Desktop\code\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.csproj.AssemblyReference.cache
+D:\Users\wangm\Desktop\code\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\wangm\Desktop\code\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.AssemblyInfoInputs.cache
+D:\Users\wangm\Desktop\code\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.AssemblyInfo.cs
+D:\Users\wangm\Desktop\code\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.csproj.CoreCompileInputs.cache
+D:\Users\wangm\Desktop\code\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.dll
+D:\Users\wangm\Desktop\code\gRPC.Framework\obj\Debug\net6.0\refint\gRPC.Framework.dll
+D:\Users\wangm\Desktop\code\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.pdb
+D:\Users\wangm\Desktop\code\gRPC.Framework\obj\Debug\net6.0\ref\gRPC.Framework.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\bin\Debug\net6.0\gRPC.Framework.deps.json
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\bin\Debug\net6.0\gRPC.Framework.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\bin\Debug\net6.0\gRPC.Framework.pdb
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.csproj.AssemblyReference.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.AssemblyInfoInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.AssemblyInfo.cs
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.csproj.CoreCompileInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\obj\Debug\net6.0\refint\gRPC.Framework.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\obj\Debug\net6.0\gRPC.Framework.pdb
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\gRPC.Framework\obj\Debug\net6.0\ref\gRPC.Framework.dll

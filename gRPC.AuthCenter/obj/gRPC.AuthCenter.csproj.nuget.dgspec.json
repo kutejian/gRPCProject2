@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.AuthCenter\\gRPC.AuthCenter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.AuthCenter\\gRPC.AuthCenter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.AuthCenter\\gRPC.AuthCenter.csproj",
+        "projectName": "gRPC.AuthCenter",
+        "projectPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.AuthCenter\\gRPC.AuthCenter.csproj",
+        "packagesPath": "C:\\Users\\30765\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.AuthCenter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\30765\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj": {
+                "projectPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.30.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj",
+        "projectName": "gRPC.Framework",
+        "projectPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj",
+        "packagesPath": "C:\\Users\\30765\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\30765\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Grpc.Core.Api": {
+              "target": "Package",
+              "version": "[2.53.0, )"
+            },
+            "Grpc.Net.ClientFactory": {
+              "target": "Package",
+              "version": "[2.53.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

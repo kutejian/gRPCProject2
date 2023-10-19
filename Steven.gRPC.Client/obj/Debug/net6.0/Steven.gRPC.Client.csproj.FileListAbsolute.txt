@@ -1,0 +1,42 @@
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.csproj.AssemblyReference.cache
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.AssemblyInfoInputs.cache
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.AssemblyInfo.cs
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.csproj.CoreCompileInputs.cache
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.exe
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.deps.json
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.runtimeconfig.json
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.dll
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.pdb
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.csproj.CopyComplete
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.dll
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\refint\Steven.gRPC.Client.dll
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.pdb
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.genruntimeconfig.cache
+D:\Users\wangm\Desktop\code\Steven.gRPC.Client\obj\Debug\net6.0\ref\Steven.gRPC.Client.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.exe
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.deps.json
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.runtimeconfig.json
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Steven.gRPC.Client.pdb
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.csproj.AssemblyReference.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.AssemblyInfoInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.AssemblyInfo.cs
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.csproj.CoreCompileInputs.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.csproj.CopyComplete
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\refint\Steven.gRPC.Client.dll
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.pdb
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\Steven.gRPC.Client.genruntimeconfig.cache
+C:\Users\30765\Desktop\新建文件夹 (2)\视频资料\Steven.gRPC.Client\obj\Debug\net6.0\ref\Steven.gRPC.Client.dll

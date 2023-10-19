@@ -1,0 +1,22 @@
+//特指 Grpc
+syntax = "proto3"; 
+//简单来说，就是namespace
+option csharp_namespace = "Grpc.DefaultServer";
+//采用的包
+package greet;
+//类和方法
+// The greeting service definition.
+service Greeter {
+  // Sends a greeting
+  rpc SayHello (HelloRequest) returns (HelloReply);
+}
+//实体类
+// The request message containing the user's name.
+message HelloRequest {
+  string name = 1;   //参数1？我是这么理解的
+}
+//实体类
+// The response message containing the greetings.
+message HelloReply {
+  string message = 1;
+}

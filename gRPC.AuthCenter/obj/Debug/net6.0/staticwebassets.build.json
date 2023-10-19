@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z1rwDAb9LYsH3KGO+vdOwmLo9Thr77F/ejOUocumpE4=",
+  "Source": "gRPC.AuthCenter",
+  "BasePath": "_content/gRPC.AuthCenter",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

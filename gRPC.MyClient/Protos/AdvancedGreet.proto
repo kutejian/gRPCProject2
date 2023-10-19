@@ -1,0 +1,48 @@
+syntax = "proto3";
+import "google/protobuf/empty.proto";
+option csharp_namespace = "GrpcService.Client";
+
+package advancedgreet;
+
+// The greeting service definition.
+service AdvancedGreeter {
+  // Sends a greeting
+  rpc SayHello (HelloRequestMath) returns (HelloReplyMath);
+  rpc Plus (RequestPara) returns (ResponseResult);
+  rpc SelfIncreaseClient (stream BathTheCatReq) returns (IntArrayModel);
+  rpc SelfIncreaseServer (IntArrayModel) returns (stream BathTheCatResq);
+  rpc SelfIncreaseDouble (stream BathTheCatReq) returns (stream BathTheCatResq);
+  rpc Count (google.protobuf.Empty) returns (CountResult);
+}
+
+// The request message containing the user's name.
+message HelloRequestMath {
+  string name = 1;
+  int32 id = 2;
+}
+// The response message containing the greetings.
+message HelloReplyMath {
+  string message = 1;
+}
+
+message RequestPara {
+  int32 iLeft = 1;
+  int32 iRight = 2;
+}
+message ResponseResult {
+  int32 Result = 1;
+  string Message = 2;
+}
+
+message BathTheCatReq {
+  int32 Id = 1;
+}
+message BathTheCatResq {
+  string Message = 1;
+}
+message IntArrayModel {
+  repeated int32 Number = 1;
+}
+message CountResult {
+  int32 Count = 1;
+}

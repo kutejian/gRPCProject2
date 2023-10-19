@@ -1,0 +1,3 @@
+obj\Debug\net6.0\Protos/AdvancedGreet.cs \
+obj\Debug\net6.0\Protos/AdvancedGreetGrpc.cs: C:/Users/30765/.nuget/packages/grpc.tools/2.54.0/build/native/include/google/protobuf/empty.proto\
+ Protos/AdvancedGreet.proto
