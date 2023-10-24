@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uQr0T/C0cQAZwiw18gkdaOHH22PPFFgEN7bUnHGnLErt8QW4+amYbIlKuor8lAmRIga3nNj9kXVUB07KxNY11w==",
+  "dgSpecHash": "kfGTsjq1OI/WejuS23t0w7il6AdhoHtpcKY/a8MCAwI3Pjki5hmkZIEQzzE5UIOw4wGjx+X3iLI1nDH95u14CA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\Grpc.DefaultServer\\Grpc.DefaultServer.csproj",
+  "projectFilePath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\Grpc.DefaultServer\\Grpc.DefaultServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\30765\\.nuget\\packages\\google.protobuf\\3.23.0\\google.protobuf.3.23.0.nupkg.sha512",
     "C:\\Users\\30765\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",

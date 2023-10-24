@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0IYEQi5cBQY5hoPJgvqyHlpA19HqRCJSyLDlMuQ+I1UUFuQznlgvDGQxOCBGwAIDHvW3cgwKEPKMhws2xAnRnw==",
+  "dgSpecHash": "3MzlD/tcINRKr4VWj55swPK5Rtm0c0CJTKhJPGt/f2Yn1CzX+i58vqKRnzz+EoVz6b4RNupQWdtv42fOSETAVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj",
+  "projectFilePath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.Framework\\gRPC.Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\30765\\.nuget\\packages\\grpc.core.api\\2.53.0\\grpc.core.api.2.53.0.nupkg.sha512",
     "C:\\Users\\30765\\.nuget\\packages\\grpc.net.client\\2.53.0\\grpc.net.client.2.53.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.WebApi\\gRPC.WebApi.csproj": {}
+    "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.WebApi\\gRPC.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj": {
+    "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.Framework\\gRPC.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj",
+        "projectUniqueName": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.Framework\\gRPC.Framework.csproj",
         "projectName": "gRPC.Framework",
-        "projectPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj",
+        "projectPath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.Framework\\gRPC.Framework.csproj",
         "packagesPath": "C:\\Users\\30765\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\obj\\",
+        "outputPath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\30765\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.WebApi\\gRPC.WebApi.csproj": {
+    "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.WebApi\\gRPC.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.WebApi\\gRPC.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.WebApi\\gRPC.WebApi.csproj",
         "projectName": "gRPC.WebApi",
-        "projectPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.WebApi\\gRPC.WebApi.csproj",
+        "projectPath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.WebApi\\gRPC.WebApi.csproj",
         "packagesPath": "C:\\Users\\30765\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\30765\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj": {
-                "projectPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.Framework\\gRPC.Framework.csproj"
+              "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.Framework\\gRPC.Framework.csproj": {
+                "projectPath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.Framework\\gRPC.Framework.csproj"
               }
             }
           }

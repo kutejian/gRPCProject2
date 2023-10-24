@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XAZ0uekEHWsZy9DVEUR94/CfU3BgeK86yX/vyJZ2uOGxzAMyBrS8SM5RzuHF5/k42IZx3qpMadpS8Qxq+YwSqQ==",
+  "dgSpecHash": "ks0zrSL++3tigzKT2vwhX6ofRHZt4gPsf1gGr2f8+/WSODzu5rcC21OvS9ZFGC/CSUy1I+RdZ1gHPuakzFWFVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\gRPC.AuthCenter\\gRPC.AuthCenter.csproj",
+  "projectFilePath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\gRPC.AuthCenter\\gRPC.AuthCenter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\30765\\.nuget\\packages\\grpc.core.api\\2.53.0\\grpc.core.api.2.53.0.nupkg.sha512",
     "C:\\Users\\30765\\.nuget\\packages\\grpc.net.client\\2.53.0\\grpc.net.client.2.53.0.nupkg.sha512",

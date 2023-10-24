@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bm9j4BU23NRHoN4Kn6ZslF3GlsGnEKyrS8Ph1rLasfwMjn21zm8iFP3VSCaTEPLpm0c1QcYRuxOuwLn69z9uAw==",
+  "dgSpecHash": "orKHnf0B82tswcNy1Q4D5RXQhLNY+I3gqNemL2FyCQTjRIvd18k4ZJ45t/JbUEE5avDw9yDs9OOK2zatePgaVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\Steven.gRPC.Client\\Steven.gRPC.Client.csproj",
+  "projectFilePath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\Steven.gRPC.Client\\Steven.gRPC.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\30765\\.nuget\\packages\\google.protobuf\\3.23.1\\google.protobuf.3.23.1.nupkg.sha512",
     "C:\\Users\\30765\\.nuget\\packages\\grpc.core.api\\2.53.0\\grpc.core.api.2.53.0.nupkg.sha512",

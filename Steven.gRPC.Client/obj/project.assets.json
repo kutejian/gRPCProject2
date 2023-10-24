@@ -298,11 +298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\Steven.gRPC.Client\\Steven.gRPC.Client.csproj",
+      "projectUniqueName": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\Steven.gRPC.Client\\Steven.gRPC.Client.csproj",
       "projectName": "Steven.gRPC.Client",
-      "projectPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\Steven.gRPC.Client\\Steven.gRPC.Client.csproj",
+      "projectPath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\Steven.gRPC.Client\\Steven.gRPC.Client.csproj",
       "packagesPath": "C:\\Users\\30765\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\30765\\Desktop\\新建文件夹 (2)\\视频资料\\Steven.gRPC.Client\\obj\\",
+      "outputPath": "C:\\Users\\30765\\Desktop\\ProtocProjectServer\\gRPCProject2\\Steven.gRPC.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\30765\\AppData\\Roaming\\NuGet\\NuGet.Config",
